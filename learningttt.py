@@ -1,5 +1,4 @@
 #reinforcement learning test for tic-tac-toe
-#I would like to thank you for giving me this task.
 #Learning and implementing reinforcement learning has been incredibly rewarding
 
 
